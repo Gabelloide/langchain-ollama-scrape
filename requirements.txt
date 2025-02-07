@@ -1,6 +1,6 @@
 beautifulsoup4
 langchain
-langchain_communit
+langchain_community
 langchain_ollama
 langchain_text_splitters
 langchain-chroma
