@@ -5,3 +5,5 @@ langchain_ollama
 langchain_text_splitters
 langchain-chroma
 chromadb
+faiss-cpu
+pypdf
